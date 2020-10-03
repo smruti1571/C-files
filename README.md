@@ -1,2 +1,2 @@
 # C-files
-This repo contains all  C program files for my reference thank you for contributing.
+This repo contains all  C program files for my reference, thank you for contributing.
